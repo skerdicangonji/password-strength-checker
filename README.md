@@ -7,12 +7,6 @@ A simple Python script to evaluate password strength based on security best prac
 ✔️ Detects uppercase, lowercase, numbers, and special characters  
 ✔️ Provides strength feedback (Weak, Moderate, Strong)  
 
-## 🛠️ Usage  
-1. Install Python (`python --version` to check)  
-2. Run the script:  
-   ```bash
-   python password_checker.py
-
 #---------------------------------------------------------------------------------------------------------#
 
 import re  
